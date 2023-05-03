@@ -121,7 +121,7 @@ body{
 }
 .rodape {
     padding: 30px;
-    background: url("/img/fundo-rodape.jpg")center center no-repeat;
+    background: url("img/fundo-rodape.jpg")center center no-repeat;
     font-size: cover;
 }
 .rodape ul {
