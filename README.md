@@ -3,8 +3,7 @@
 
 - Javascript
 - CSS
-- HTML
-- 
+- HTML 
 ### Oque é o Code with Coffee?
 
 O Code with Coffee é uma Lading Page sobre uma loja de café. Vejamos um exemplo logo abaixo:
